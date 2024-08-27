@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchRanking.ScraperServic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchRanking.Data", "..\SearchRanking.Data\SearchRanking.Data.csproj", "{35AB704F-703A-403D-993D-D3C692E97D9A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchRanking.Services.Tests", "..\SearchRanking.Services.Tests\SearchRanking.Services.Tests.csproj", "{5B225FC3-7F4C-4556-B514-178ABC3ED78F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchRanking.Services.Tests", "..\SearchRanking.Services.Tests\SearchRanking.Services.Tests.csproj", "{5B225FC3-7F4C-4556-B514-178ABC3ED78F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

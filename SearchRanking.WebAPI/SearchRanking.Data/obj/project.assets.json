@@ -4113,11 +4113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sripa\\source\\SearchRanking\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Data\\SearchRanking.Data.csproj",
+      "projectUniqueName": "C:\\Users\\sripa\\source\\repos\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Data\\SearchRanking.Data.csproj",
       "projectName": "SearchRanking.Data",
-      "projectPath": "C:\\Users\\sripa\\source\\SearchRanking\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Data\\SearchRanking.Data.csproj",
+      "projectPath": "C:\\Users\\sripa\\source\\repos\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Data\\SearchRanking.Data.csproj",
       "packagesPath": "C:\\Users\\sripa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sripa\\source\\SearchRanking\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Data\\obj\\",
+      "outputPath": "C:\\Users\\sripa\\source\\repos\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,9 @@
+@SearchRanking.API_HostAddress = http://localhost:5048
+@SearchRanking.API_HostAddress = https://localhost:7278
+
+GET {{SearchRanking.API_HostAddress}}/api/search/
+Accept: application/json
+
+###
+GET {{SearchRanking.API_HostAddress}}/api/search/history/
+Accept: application/json

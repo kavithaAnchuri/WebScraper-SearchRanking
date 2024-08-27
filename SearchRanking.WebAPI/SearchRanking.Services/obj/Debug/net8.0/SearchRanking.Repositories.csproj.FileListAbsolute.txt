@@ -1,0 +1,15 @@
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\bin\Debug\net8.0\SearchRanking.Repositories.deps.json
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\bin\Debug\net8.0\SearchRanking.Repositories.dll
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\bin\Debug\net8.0\SearchRanking.Repositories.pdb
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\bin\Debug\net8.0\SearchRanking.Data.dll
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\bin\Debug\net8.0\SearchRanking.Data.pdb
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\obj\Debug\net8.0\SearchRanking.Repositories.csproj.AssemblyReference.cache
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\obj\Debug\net8.0\SearchRanking.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\obj\Debug\net8.0\SearchRanking.Repositories.AssemblyInfoInputs.cache
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\obj\Debug\net8.0\SearchRanking.Repositories.AssemblyInfo.cs
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\obj\Debug\net8.0\SearchRanking.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\obj\Debug\net8.0\SearchRa.7A248467.Up2Date
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\obj\Debug\net8.0\SearchRanking.Repositories.dll
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\obj\Debug\net8.0\refint\SearchRanking.Repositories.dll
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\obj\Debug\net8.0\SearchRanking.Repositories.pdb
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Services\obj\Debug\net8.0\ref\SearchRanking.Repositories.dll

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "SearchRanking.API.Controllers.SearchController",
+    "Method": "GetSearchResults",
+    "RelativePath": "api/Search",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SearchRanking.Data.Models.SearchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SearchRanking.API.Controllers.SearchController",
+    "Method": "GetSearchHistories",
+    "RelativePath": "api/Search/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

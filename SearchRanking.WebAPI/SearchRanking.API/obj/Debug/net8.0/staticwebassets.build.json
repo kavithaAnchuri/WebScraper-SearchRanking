@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AzlfgVCjNc19SfHYr432uzEbHpYLtQYOTd6jmeZchrQ=",
+  "Source": "SearchRanking.API",
+  "BasePath": "_content/SearchRanking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

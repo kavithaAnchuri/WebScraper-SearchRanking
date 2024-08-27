@@ -2860,11 +2860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sripa\\source\\SearchRanking\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Services\\SearchRanking.ScraperService.csproj",
+      "projectUniqueName": "C:\\Users\\sripa\\source\\repos\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Services\\SearchRanking.ScraperService.csproj",
       "projectName": "SearchRanking.ScraperService",
-      "projectPath": "C:\\Users\\sripa\\source\\SearchRanking\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Services\\SearchRanking.ScraperService.csproj",
+      "projectPath": "C:\\Users\\sripa\\source\\repos\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Services\\SearchRanking.ScraperService.csproj",
       "packagesPath": "C:\\Users\\sripa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sripa\\source\\SearchRanking\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Services\\obj\\",
+      "outputPath": "C:\\Users\\sripa\\source\\repos\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2886,8 +2886,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\sripa\\source\\SearchRanking\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Data\\SearchRanking.Data.csproj": {
-              "projectPath": "C:\\Users\\sripa\\source\\SearchRanking\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Data\\SearchRanking.Data.csproj"
+            "C:\\Users\\sripa\\source\\repos\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Data\\SearchRanking.Data.csproj": {
+              "projectPath": "C:\\Users\\sripa\\source\\repos\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Data\\SearchRanking.Data.csproj"
             }
           }
         }

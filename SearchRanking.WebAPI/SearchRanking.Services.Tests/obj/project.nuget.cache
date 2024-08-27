@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QKQ6E8sm8Fo=",
+  "dgSpecHash": "G9dg2/WN5uo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sripa\\source\\SearchRanking\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Services.Tests\\SearchRanking.Services.Tests.csproj",
+  "projectFilePath": "C:\\Users\\sripa\\source\\repos\\WebScraper-SearchRanking\\SearchRanking.WebAPI\\SearchRanking.Services.Tests\\SearchRanking.Services.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sripa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\sripa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

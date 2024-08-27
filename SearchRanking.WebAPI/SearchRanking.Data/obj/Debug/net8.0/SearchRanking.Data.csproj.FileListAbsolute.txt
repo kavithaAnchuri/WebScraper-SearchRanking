@@ -1,0 +1,14 @@
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\bin\Debug\net8.0\SearchRanking.Data.deps.json
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\bin\Debug\net8.0\SearchRanking.Data.runtimeconfig.json
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\bin\Debug\net8.0\SearchRanking.Data.dll
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\bin\Debug\net8.0\SearchRanking.Data.pdb
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\obj\Debug\net8.0\SearchRanking.Data.csproj.AssemblyReference.cache
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\obj\Debug\net8.0\SearchRanking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\obj\Debug\net8.0\SearchRanking.Data.AssemblyInfoInputs.cache
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\obj\Debug\net8.0\SearchRanking.Data.AssemblyInfo.cs
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\obj\Debug\net8.0\SearchRanking.Data.csproj.CoreCompileInputs.cache
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\obj\Debug\net8.0\SearchRanking.Data.dll
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\obj\Debug\net8.0\refint\SearchRanking.Data.dll
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\obj\Debug\net8.0\SearchRanking.Data.pdb
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\obj\Debug\net8.0\SearchRanking.Data.genruntimeconfig.cache
+C:\Users\sripa\source\repos\WebScraper-SearchRanking\SearchRanking.WebAPI\SearchRanking.Data\obj\Debug\net8.0\ref\SearchRanking.Data.dll
