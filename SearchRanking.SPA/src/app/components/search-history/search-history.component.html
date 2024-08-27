@@ -1,0 +1,29 @@
+<div class="search-engine bg-body-secondary text-center py-5 rounded-2">
+  <h1 class="dispay-6 fw-bold">Search Engine</h1>
+</div>
+  <div class="row mt-5">
+    <div class="col-6">
+      <app-search-ranking />
+    </div>
+    <div class="col-6">
+      <h5 style="margin-bottom: 25px;">Search History</h5>
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>Keywords</th>
+            <th>URL</th>
+            <th>Rankings</th>
+            <th>SearchDate</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of searchHistory">
+            <td>{{item.keyword}}</td>
+            <td>{{item.url}}</td>
+            <td>{{item.rankings}}</td>
+            <td>{{item.searchDate}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>

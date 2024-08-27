@@ -1,0 +1,68 @@
+<form #form="ngForm" (submit)="onSubmit(form)" class="search-ranking-form">
+  <div class="container">
+    <h5 style="margin-bottom: 25px;">Search Rankings</h5>
+    <div class="row">
+      <div class="col-md-8">
+        <div class="mb-3">
+          <div class="row">
+            <div class="col-md-4 d-flex align-items-center">
+              <label for="keywords" class="form-label">Keywords:</label>
+            </div>
+            <div class="col-md-8">
+              <input
+                id="keywords"
+                name="keywords"
+                ngModel
+                #keywords="ngModel"
+                placeholder="Keywords"
+                required
+                class="form-control"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-8">
+        <div class="mb-3">
+          <div class="row">
+            <div class="col-md-4 d-flex align-items-center">
+              <label for="url">URL:</label>
+            </div>
+            <div class="col-md-8">
+              <input
+                id="url"
+                name="url"
+                ngModel
+                #url="ngModel"
+                placeholder="URL"
+                required
+                class="form-control"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-12">
+        <button type="submit" [disabled]="isLoading" class="search-btn">Submit</button>
+      </div>
+    </div>
+  </div>
+</form>
+
+<div  *ngIf="isLoading"  class="loading-spinner">
+  <div class="spinner-border" role="status">
+    <span class="sr-only">Loading...</span>
+  </div>
+</div>
+
+<div class="col-8 offset-1" *ngIf="showMessage">
+  <div class="alert alert-info">
+    <p><strong>Search Rankings:</strong> Your current ranking is <span class="ranking-value">{{ rankings }}</span></p>
+  </div>
+</div>

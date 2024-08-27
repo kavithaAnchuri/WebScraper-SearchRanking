@@ -1,0 +1,46 @@
+.search-ranking-form{
+  padding-left: 60px;
+}
+
+.alert-info {
+  background-color: #e7f0ff;
+  border-color: #b6d4fe;
+  color: #1d72b8;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+.ranking-value {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.loading-spinner {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.loading-spinner {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1050; 
+}
+
+.spinner-border {
+  width: 3rem;
+  height: 3rem;
+}
+
+.toast-top-center {
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.search-btn{
+  border-radius: 4px;
+  background-color: #69a5a4;
+}
